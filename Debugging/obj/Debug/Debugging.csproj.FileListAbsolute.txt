@@ -1,0 +1,16 @@
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.Properties.Resources.resources
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.csproj.GenerateResource.cache
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\Debugging.exe.config
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\Debugging.exe
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\Debugging.pdb
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.Direct3D11.dll
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.dll
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.DXGI.dll
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.xml
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.Direct3D11.xml
+D:\myproj\Code\D3DRendering\Debugging\bin\Debug\SharpDX.DXGI.xml
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.csproj.CopyComplete
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.exe
+D:\myproj\Code\D3DRendering\Debugging\obj\Debug\Debugging.pdb
