@@ -1,0 +1,16 @@
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\EmptyWinForm.exe.config
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\EmptyWinForm.exe
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\EmptyWinForm.pdb
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.Direct3D11.dll
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.dll
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.DXGI.dll
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.xml
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.Direct3D11.xml
+D:\myproj\Code\D3DRendering\EmptyWinForm\bin\Debug\SharpDX.DXGI.xml
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.csprojAssemblyReference.cache
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.Properties.Resources.resources
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.csproj.GenerateResource.cache
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.csproj.CoreCompileInputs.cache
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.csproj.CopyComplete
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.exe
+D:\myproj\Code\D3DRendering\EmptyWinForm\obj\Debug\EmptyWinForm.pdb
